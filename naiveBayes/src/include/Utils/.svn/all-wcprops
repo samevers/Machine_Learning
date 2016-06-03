@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/Utils
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/Utils/utils.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/Utils/Makefile.am
+END
+editDist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/Utils/editDist.cpp
+END

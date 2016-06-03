@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src
+END
+main.word.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/main.word.cpp
+END
+word_distribute.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/word_distribute.cpp
+END
+main.gram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/main.gram.cpp
+END
+Index_da.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/Index_da.cpp
+END
+general.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/general.cpp
+END
+word_distribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/word_distribute.h
+END
+darts-clone.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/darts-clone.h
+END
+Index_da.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/Index_da.h
+END
+word_gram.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/word_gram.cpp
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/general.h
+END
+darts.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/darts.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/main.cpp
+END
+naive_bayes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/naive_bayes.cpp
+END
+word_gram.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/word_gram.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/Makefile.am
+END
+naive_bayes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/naive_bayes.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/common.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common
+END
+EditDist.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/EditDist.h
+END
+tf-idf.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/tf-idf.h
+END
+darts.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/darts.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/Makefile.am
+END
+EditDist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/EditDist.cpp
+END
+tf-idf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/tf-idf.cpp
+END
+tfidf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common/tfidf.cpp
+END

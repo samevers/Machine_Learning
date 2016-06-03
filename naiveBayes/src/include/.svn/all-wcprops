@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/websearch4/!svn/ver/471729/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include
+END
+pcre.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcre.h
+END
+text_color_switcher.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/text_color_switcher.hpp
+END
+HashVector_Enhanced.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/HashVector_Enhanced.h
+END
+public_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/public_def.h
+END
+pcrecpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcrecpp.h
+END
+string_Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/string_Util.cpp
+END
+service_log.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/service_log.hpp
+END
+socket_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/socket_utils.cpp
+END
+tinyxml.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/tinyxml.h
+END
+darts.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/darts.h
+END
+general.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/general.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/main.cpp
+END
+pcre_stringpiece.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcre_stringpiece.h
+END
+pcrecpparg.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcrecpparg.h
+END
+pcrecpp_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcrecpp_internal.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/utils.cpp
+END
+utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/utils.hpp
+END
+debug_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/debug_info.h
+END
+pcre_scanner.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcre_scanner.h
+END
+string_Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/string_Util.h
+END
+UrlEncodeAndDecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/UrlEncodeAndDecode.h
+END
+socket_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/socket_utils.h
+END
+darts-clone.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/darts-clone.h
+END
+pcreposix.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcreposix.h
+END
+tinystr.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/tinystr.h
+END
+check.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/check.h
+END
+unit_test.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/unit_test.hpp
+END
+common_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/common_index.h
+END
+XmlConfigurator.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/XmlConfigurator.h
+END
+pcre_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/pcre_internal.h
+END
+string_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/string_utils.h
+END
+Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/websearch4/!svn/ver/471625/VH/newVrqo/branches/huyonghua_bak/textmodel/src/include/Encoding.h
+END
